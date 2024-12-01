@@ -6,4 +6,4 @@ Non-planar slicing software to print simple parts without support. I used this t
 
 ![propeller_unwrapped-ezgif com-crop](https://github.com/user-attachments/assets/d1d49234-ae86-41d8-804f-a975d220aee0)
 
-See my youtube video for more details
+See my [youtube video](https://www.youtube.com/watch?v=VEgwnhLHy3g) for more details
